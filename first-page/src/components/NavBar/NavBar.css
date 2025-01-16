@@ -1,0 +1,11 @@
+.NavContainer{
+    display: flex;
+    /* background-color: aliceblue; */
+    margin: 20px;
+    gap: 50px;
+}
+
+.NavBar_ButtonMain{
+    display: flex;
+    margin: 10px;
+}
