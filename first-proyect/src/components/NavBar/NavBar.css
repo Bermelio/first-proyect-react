@@ -1,0 +1,14 @@
+.NavContainer{
+    background-color: rgb(21, 94, 163);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100px;
+    gap: 50px;
+}
+
+.NavBar_ButtonMain{
+    display: flex;
+    margin: 10px;
+}

@@ -1,0 +1,12 @@
+.ItemListContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ItemListContainer h1{
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+}

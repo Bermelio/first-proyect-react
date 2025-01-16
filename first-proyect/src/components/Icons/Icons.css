@@ -1,0 +1,15 @@
+.IconsMain:first-child{
+    position:fixed;
+    left: 100px;
+    top: 20px;
+    border: 2px solid rgb(120, 173, 253);
+    border-radius: 50%;
+}
+
+.IconsMain:last-child{
+    position:fixed;
+    right: 100px;
+    top: 20px;
+    border: 2px solid rgb(120, 173, 253);
+    border-radius: 50%;
+}
